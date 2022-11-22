@@ -1,4 +1,4 @@
-# Python-Programming-MOOC-Final-Project
+# Python Programming MOOC Final Project
 
 This is the final project of the Programming MOOC Advanced Course in Programming from the University Helsinki.
 
